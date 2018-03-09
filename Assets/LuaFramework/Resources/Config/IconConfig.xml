@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<Config name="\data\头像与分享.xlsx">
+	<item Id="1" Key="猫猫|猫咪|貓貓|貓咪|cat|chat|katze|ネコ|고양이|gatto|кошка|قطة|gato|แมว|kedi|gato|kucing|mèo" ShopId="11307"/>
+	<item Id="2" Key="地球|earth|terre|erde|チキュウ|지구|pianeta terra|земля|الكرة الارضية|terra|โลก|dünya|tierra|bumi|trái đất"/>
+	<item Id="3" Key="月亮|moon|lune|mond|ツキ|달|luna|луна|القمر|lua|ดวงจันทร์|ay|luna|bulan|mặt trăng"/>
+	<item Id="4" Key="猪|pig" ShopId="11306"/>
+	<item Id="5" Key="熊猫|熊貓|panda|パンダ|팬더|панда|بندا|แพนด้า|gấu trúc" ShopId="11201"/>
+	<item Id="6" Key="炸弹|炸彈|bomb|bombe|ボーム|폭탄|bomba|бомба|قنبلة|bomba|ระเบิด|bomba|bom" ShopId="11109,11301"/>
+	<item Id="7" Key="狗|dog|chien|hund|イヌ|강아지|cane|собака|كلب|cão|สุนัข|köpek|perro|anjing|chó" ShopId="11106,11302"/>
+	<item Id="8" Key="西瓜|watermelon|pastèque|wassermelone|スイカ|수박|anguria|арбуз|بطيخ|melancia|แตงโม|karpuz|sandía|semangka|dưa hấu" ShopId="11202,11207"/>
+	<item Id="9" Key="桔子|橘子|orange|オレンジ|귤|arancia|мандарин|برتقال|laranja|ส้ม|portakal|naranja|jeruk|quả quýt" ShopId="11101,11205"/>
+	<item Id="10" Key="笑脸|笑臉|smile|sourire|lächelnd|ワライガオ|미소|sorriso|улыбка|ابتسامة|sorriso|หน้ายิ้ม|gülümse|sonrisa|senyum|mặt cười"/>
+	<item Id="11" Key="泪奔|淚奔|cry|pleurer|heulen|ナク|눈물|piangere|слезы|يبكي|lágrimas |น้ำตาไหล|gözyaşı telaşı|corriendo con las lágrimás|menangis|nhòe lệ"/>
+	<item Id="12" Key="熊|bear|ours|bär|クマ|곰|orso|медведь|دب|urso|หมี|ayı|oso|beruang|gấu" ShopId="11403"/>
+	<item Id="13" Key="鼠|rat|ratte|ネズミ|쥐|topo|мышь|فأر|rato|หนู|fare|ratón|tikus|chuột" ShopId="11104"/>
+	<item Id="14" Key="萌萌|cute|mignon|niedlich|モエモエ|깜찍|adorabile|милашка|جذاب|fofinho|มุ๊งมิ๊ง|şirin|mono|imut|đáng yêu"/>
+	<item Id="15" Key="苹果|蘋果|apple|pomme|apfel|リンゴ|사과|mela|яблоко|تفاح|maçã|แอปเปิ้ล|elma|manzana|apel|quả táo"/>
+	<item Id="16" Key="牛|cattle|bœuf|rind|ウシ|소|bue|корова|بقرة|vaca|วัว|inek|vaca|sapi|trâu" ShopId="11402,11203"/>
+	<item Id="17" Key="橙"/>
+	<item Id="18" Key="火星|mars|カセイ|화성|marte|марс|المريخ|marte|ดาวอังคาร|marte|hỏa tinh"/>
+	<item Id="19" Key="虎|tiger|tigre|トラ|호랑이|tigre|тигр|نمر|tigre|เสือ|kaplan|tigre|macan|hổ" ShopId="11304"/>
+	<item Id="20" Key="鸟|雞|chicken|poulet|huhn|ニワトリ|닭|gallo|курица|دجاجة|frango|ไก่|tavuk|pollo|ayam|gà" ShopId="11102,11108"/>
+	<item Id="21" Key="青花瓷|blue-white|porcelain|porcelaine|porzellan|ソメツケジキ|청화자기|porcellana|фарфор|الخزف الازرق و الابيض|porcelana|เครื่องลายคราม|mavi çiçekli porselen|keramik biru|gốm thanh hoa"/>
+	<item Id="22" Key="伞|傘|parasol|sonneschirm|ヒガサ|우산|ombrellone|зонт|شمسية|guarda-sol|ร่ม|güneş şemsiyesi|paraguas|payung|ô che năng" ShopId="11105"/>
+	<item Id="23" Key="剪纸|剪紙|paper-cut|papier découpé|papierschnitt|カミキリ|전지|ritaglio|вырезка|قصاصات ورقية|corte do papel|ตัดกระดาษ|kağıt kesme|corte del papel|kerajinan kertas|cắt giấy"/>
+	<item Id="24" Key="糖果|candy|bonbon|キャンディ|사탕|caramelle|конфета|حلوى|doce|ลูกอม|şeker|caramelo|permen|kẹo"/>
+	<item Id="25" Key="挑衅|挑釁|provoke|provoquer|provozierend|チョウハツ|도전|provocare|провокация|إثارة|provocar|ยั่วยุ|kışkırtıcı|provocar|provokasi|khiêu khích"/>
+	<item Id="26" Key="巧克力|chocolate|chocolat|schokolade|チョコレート|초콜릿|cioccolata|шоколад|شوكولاتة|ช็อคโกแลต|çikolata|coklat|sô cô la"/>
+	<item Id="27" Key="花痴|花癡|anthomaniac|blumenliebhaber|ハナチ|반함|occhi sognanti|влюбленность|محب الازهار|pegador|บ้าบอ|sapık|loca|mata cinta|si tình"/>
+	<item Id="28" Key="指南针|指南針|compass|boussole|kompass|コンパス|나침반|bussola|компас|البصلة|bússola|เข็มทิศ|pusula|brújula|kompas|kim chỉ nam"/>
+	<item Id="29" Key="呲牙|expose teeth|grin|zähne zeigen|イタズラ|히힛|esporre i denti|во все зубы|كشف الأسنان|dentes à mostra|แยกเขี้ยว|sadece diş|mostrar los dientes|meringis|cười nhe răng"/>
+	<item Id="30" Key="发狂|愤怒|發狂|go mad|angry|délirer|verücktwerden|クルイ|미쳐|uscire di testa|бешенство|اصبح مجنونا|enlouquecer|เครซี่|deli|loco|marah|phát điên"/>
+	<item Id="31" Key="青蛙|frog|grenouille|frosch|カエル|개구리|rana|лягушка|ضفدع|rã|กบ|kurbağa|rana|katak|ếch" ShopId="11107,11401"/>
+	<item Id="32" Key="星球|planet" ShopId="11103,11204"/>
+	<item Id="33" Key="南瓜头|南瓜頭|万圣|萬聖|halloween|pumpkinhead|tête de citrouille|kürbiskopf|カボチャ|호박머리|mostro di halloween|тыква|رأس اليقطين|cabeça de abobora|หัวฟักทอง|kabak başı|cabeza de calabaza|labu|đầu bí ngô" ShopId=""/>
+	<item Id="34" Key="桃子|peach|pêche|pfirsich|モモ|복숭아|pesca|персик|خوخ|pêssego|ลูกท้อ|şeftali|melocotón|peach|quả đào"/>
+	<item Id="35" Key="饼干|餅乾|biscuit|keks|ビスケット|쿠키|biscotto|печенье|بسكويت|biscoito|คุกกี้|bisküvi|galleta|biskuit|bánh quy"/>
+	<item Id="36" Key="蠢|stupid"/>
+	<item Id="37" Key="篮球|籃球|basketball|basket-ball|バスケットボール|농구|pallacanestro|баскетбол|كرة السلة|basquete|บาสเก็ตบอล|basketbol|baloncesto|bola basket|bóng rổ"/>
+	<item Id="38" Key="足球|football|soccer|fußball|サッカーボール|축구|calcio|футбол|كرة القدم|futebol|ฟุตบอล|futbol|fútbol|bola sepak|bóng đá"/>
+	<item Id="39" Key="撸啊撸|擼啊擼|lol"/>
+	<item Id="40" Key="刀塔|dota"/>
+	<item Id="41" Key="鲨鱼|shark"/>
+	<item Id="42" Key="部落|tribe"/>
+	<item Id="43" Key="仙侠世界|仙俠世界"/>
+	<item Id="44" Key="大主宰"/>
+	<item Id="45" Key="武极天下|武極天下"/>
+	<item Id="46" Key="征途口袋"/>
+	<item Id="47" Key="骷髅|骷髏|mlgb"/>
+	<item Id="48" Key="奥斯卡|奧斯卡|oscar|baby"/>
+	<item Id="49" Key="魔兽|魔獸"/>
+	<item Id="50" Key="丑|醜|ugly|laid|eklig|ミニクイ|으으|brutto|клоун|قبيح|feio|อัปลักษณ์|çirkin|feo|jelek|xấu"/>
+	<item Id="51" Key="板牙|front tooth|incisive|schneidezahn|ダイス|크크|denti anteriori|зубастик|الاسنان الامامية|arrancar dente|ฟันหน้า|ön diş|diente|prongos|răng cửa"/>
+	<item Id="52" Key="吃你|eat you|avaler-toi|ich fresse dich|クウゾ|삼킴|ti mangio|съем тебя|يأكلك|te comer|กินเธอ|seni yiyeyim|comerte|mau makan|ăn bạn"/>
+	<item Id="53" Key="星星眼|star eyes|yeux d'étoiles|sternenaugen|マブシイ|잘자|occhi a stella|звездочки|عيون النجوم|olhar estrelar|ตาประกายดาว|yıldızlı göz|los ojos de estrella|mata bintang|hoa mắt"/>
+	<item Id="54" Key="紧张|緊張|nervous|nerveux|nervös|キンチョウ|긴장|nervoso|напряжение|عصبي|nervoso|ตื่นเต้น|gergin|nervioso|grogi|căng thẳng"/>
+	<item Id="55" Key="贪吃|貪吃|gluttonous|gourmand|gefräßig|ドンヨク|냠냠|insaziabile|обжора|شره|ganancioso|ตะกละ|açgözlü|codicioso|serakah|tham ăn"/>
+	<item Id="56" Key="不屑的|dismissive|méprisant|abweisend|ケイベツ|경시|sprezzante|пренебрежение|رافض|desdém|เหยียดหยาม|küçümse|subestimar|meremehkan|miệt thị"/>
+	<item Id="57" Key="酷酷|酷酷|cool|クール|잘난척|крутой|رائع|gatinho|เท่จังเลย|havalı|guay|tenang|đáng yêu"/>
+	<item Id="58" Key="暴走|go ballistic"/>
+	<item Id="59" Key="咯洛洛|咯洛洛|cololo|lololo|cololo|ゴロロ|고로로|gelolo|бур-бур|كالولو|lolo|เกอร์รัว|galeo|kelolo|cololo|luoluoluo|rололо"/>
+	<item Id="60" Key="咕噜咕噜|咕嚕咕嚕|guruguru|golo golo|kulukulu|グルグル|우르르|gulugulu|буль-буль|قولوقولو|gulu|กูลูกูลู|homurtu|gulugulu|kulukulu|guru guru|буль-буль"/>
+	<item Id="61" Key="哈嗒|哈嗒|hada|hada|グダ|하타|hata|yфф|هادا|hadda|ฮาทาร์|hada|jata|hada|haha|xада"/>
+	<item Id="62" Key="希哩哩|希哩哩|cilili|lili|cilili|シリリ|히리리|celili|tи-ли-ли|شى لى لى|lili|ีลีลีร์|lili|xilili|cilili|cilili|cилили"/>
+	<item Id="63" Key="菲露露|菲露露|philulu|félulu|philulu|フェルル|비루루|filulu|tу-ру-ру|فى لو لو|lulu|เฟลูลู|lulu|felulu|philulu|felulu|Фейлулу"/>
+	<item Id="64" Key="塔坦|塔坦|tatan|tatan|tatan|タイタン|타탄|tatan|tитан|تاتان|tatan|ทาทัล|tatan|tadan|tatan|tatan|tатан"/>
+	<item Id="65" Key="冥王星|冥王星|pluto|pluto|pluto|冥王星|명왕성|pluto|ллутон|بلوتو|plutão|ดาวพลูโต|pluto|plutón|pluto|mịch|vương|tinh|ллутон"/>
+	<item Id="66" Key="叫个鸭子|叫個鴨子"/>
+	<item Id="67" Key="世界|world"/>
+	<item Id="68" Key="黑猫警长|黑貓警長"/>
+	<item Id="69" Key="炫斗三国志|炫鬥三國志"/>
+	<item Id="70" Key="球球微信号|二维码|球球微信號|二維碼"/>
+	<item Id="74" Key="●—●"/>
+	<item Id="75" Key="新古龙|新古龍"/>
+	<item Id="77" Key="滑稽|滑稽"/>
+	<item Id="78" Key="球球"/>
+	<item Id="79" Key="哼哼"/>
+	<item Id="80" Key="葫芦"/>
+	<item Id="81" Key="中秋|月饼|月餅"/>
+	<item Id="82" Key="触手|觸手"/>
+	<item Id="83" Key="番茄|tomato|西红柿"/>
+	<item Id="85" Key="蛋|egg"/>
+	<item Id="88" Key="鸭|duck" ShopId="11206,11303"/>
+	<item Id="89" Key="兔|rabbit"/>
+	<item Id="90" Key="羊|sheet"/>
+	<item Id="91" Key="猴|monkey" ShopId="11305"/>
+	<item Id="92" Key="草莓"/>
+	<item Id="94" Key="李晨|nic|潮"/>
+	<item Id="95" Key="龙珠|龍珠"/>
+	<item Id="97" Key="hello|哈喽"/>
+	<item Id="98" Key="joker"/>
+	<item Id="99" Key="皮皮虾|虾蛄|螳螂虾|虾爬子|濑尿虾|富贵虾|琵琶虾|虾公驼子"/>
+</Config>
